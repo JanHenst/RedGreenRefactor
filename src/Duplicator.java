@@ -26,8 +26,8 @@ public class Duplicator {
      * 4. Maak de functie duplicateCounter() af zodat de test wel werkt.
      *
      */
-    public int duplicateCounter() {
-
+    public int duplicateCounter(int number) {
+        return number * 2;
     }
 
 
